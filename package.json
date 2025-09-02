@@ -1,0 +1,27 @@
+{
+  "name": "webcrawlerhttp",
+  "version": "1.0.0",
+  "description": "project for the learn http course",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aayush8730/webcrawlerhttp.git"
+  },
+  "keywords": [
+    "web-crawler",
+    "http"
+  ],
+  "author": "Aayush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aayush8730/webcrawlerhttp/issues"
+  },
+  "homepage": "https://github.com/Aayush8730/webcrawlerhttp#readme",
+  "devDependencies": {
+    "jest": "^30.1.3"
+  }
+}
