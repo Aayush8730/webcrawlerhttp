@@ -23,5 +23,8 @@
   "homepage": "https://github.com/Aayush8730/webcrawlerhttp#readme",
   "devDependencies": {
     "jest": "^29.3.1"
+  },
+  "dependencies": {
+    "jsdom": "^26.1.0"
   }
 }
